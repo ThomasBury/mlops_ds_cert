@@ -1,0 +1,48 @@
+version: '3.9'
+services:
+  api:
+    image: datascientest/fastapi:1.0.0
+    container_name: sentiment_api_from_compose
+    networks:
+      - sentiment_network
+    ports:
+      - 8000:8000
+
+  authentication_test:
+    image: authentication-test
+    container_name: authentication-test_from_compose
+    networks:
+      - sentiment_network
+    depends_on:
+      - api
+    environment:
+      LOG: 1
+    volumes:
+      - ./logs:/home/app/logs
+
+  permission_test:
+    image: permission-test
+    container_name: permission-test_from_compose
+    networks:
+      - sentiment_network
+    depends_on:
+      - api
+    environment:
+      LOG: 1
+    volumes:
+      - ./logs:/home/app/logs
+
+  sentiment_test:
+    image: sentiment-test
+    container_name: sentiment-test_from_compose
+    networks:
+      - sentiment_network
+    depends_on:
+      - api
+    environment:
+      LOG: 1
+    volumes:
+      - ./logs:/home/app/logs
+
+networks:
+  sentiment_network:

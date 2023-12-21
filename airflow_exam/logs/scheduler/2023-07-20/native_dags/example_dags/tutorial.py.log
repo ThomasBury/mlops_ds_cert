@@ -1,0 +1,952 @@
+[2023-07-20 15:49:35,784] {scheduler_job.py:182} INFO - Started process (PID=67010) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:49:35,806] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:49:35,810] {logging_mixin.py:104} INFO - [2023-07-20 15:49:35,810] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:49:35,877] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:49:37,265] {logging_mixin.py:104} INFO - [2023-07-20 15:49:37,265] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:49:37,464] {logging_mixin.py:104} INFO - [2023-07-20 15:49:37,463] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:49:37,660] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 1.888 seconds
+[2023-07-20 15:50:08,419] {scheduler_job.py:182} INFO - Started process (PID=67060) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:50:08,427] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:50:08,434] {logging_mixin.py:104} INFO - [2023-07-20 15:50:08,433] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:50:08,491] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:50:08,522] {logging_mixin.py:104} INFO - [2023-07-20 15:50:08,522] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:50:08,538] {logging_mixin.py:104} INFO - [2023-07-20 15:50:08,538] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:50:08,554] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.149 seconds
+[2023-07-20 15:50:39,059] {scheduler_job.py:182} INFO - Started process (PID=67111) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:50:39,064] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:50:39,067] {logging_mixin.py:104} INFO - [2023-07-20 15:50:39,067] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:50:39,097] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:50:39,137] {logging_mixin.py:104} INFO - [2023-07-20 15:50:39,137] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:50:39,162] {logging_mixin.py:104} INFO - [2023-07-20 15:50:39,161] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:50:39,182] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.130 seconds
+[2023-07-20 15:51:09,317] {scheduler_job.py:182} INFO - Started process (PID=67161) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:51:09,329] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:51:09,338] {logging_mixin.py:104} INFO - [2023-07-20 15:51:09,338] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:51:09,556] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:51:09,895] {logging_mixin.py:104} INFO - [2023-07-20 15:51:09,895] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:51:10,295] {logging_mixin.py:104} INFO - [2023-07-20 15:51:10,285] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:51:10,425] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 1.130 seconds
+[2023-07-20 15:51:41,228] {scheduler_job.py:182} INFO - Started process (PID=67203) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:51:41,246] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:51:41,260] {logging_mixin.py:104} INFO - [2023-07-20 15:51:41,259] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:51:41,500] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:51:41,638] {logging_mixin.py:104} INFO - [2023-07-20 15:51:41,638] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:51:41,673] {logging_mixin.py:104} INFO - [2023-07-20 15:51:41,673] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:51:41,835] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.701 seconds
+[2023-07-20 15:52:12,391] {scheduler_job.py:182} INFO - Started process (PID=67252) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:52:12,422] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:52:12,426] {logging_mixin.py:104} INFO - [2023-07-20 15:52:12,426] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:52:12,514] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:52:12,625] {logging_mixin.py:104} INFO - [2023-07-20 15:52:12,625] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:52:12,653] {logging_mixin.py:104} INFO - [2023-07-20 15:52:12,653] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:52:12,687] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.316 seconds
+[2023-07-20 15:52:42,814] {scheduler_job.py:182} INFO - Started process (PID=67303) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:52:42,825] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:52:42,833] {logging_mixin.py:104} INFO - [2023-07-20 15:52:42,833] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:52:42,998] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:52:43,124] {logging_mixin.py:104} INFO - [2023-07-20 15:52:43,124] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:52:43,149] {logging_mixin.py:104} INFO - [2023-07-20 15:52:43,149] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:52:43,212] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.412 seconds
+[2023-07-20 15:53:14,238] {scheduler_job.py:182} INFO - Started process (PID=67354) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:53:14,245] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:53:14,249] {logging_mixin.py:104} INFO - [2023-07-20 15:53:14,248] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:53:14,281] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:53:14,312] {logging_mixin.py:104} INFO - [2023-07-20 15:53:14,312] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:53:14,338] {logging_mixin.py:104} INFO - [2023-07-20 15:53:14,338] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:53:14,356] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.131 seconds
+[2023-07-20 15:53:44,585] {scheduler_job.py:182} INFO - Started process (PID=67406) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:53:44,595] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:53:44,599] {logging_mixin.py:104} INFO - [2023-07-20 15:53:44,598] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:53:44,677] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:53:44,733] {logging_mixin.py:104} INFO - [2023-07-20 15:53:44,732] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:53:44,756] {logging_mixin.py:104} INFO - [2023-07-20 15:53:44,756] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:53:44,775] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.203 seconds
+[2023-07-20 15:54:15,472] {scheduler_job.py:182} INFO - Started process (PID=67457) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:54:15,475] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:54:15,482] {logging_mixin.py:104} INFO - [2023-07-20 15:54:15,482] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:54:15,530] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:54:15,571] {logging_mixin.py:104} INFO - [2023-07-20 15:54:15,571] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:54:15,595] {logging_mixin.py:104} INFO - [2023-07-20 15:54:15,595] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:54:15,611] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.150 seconds
+[2023-07-20 15:54:46,906] {scheduler_job.py:182} INFO - Started process (PID=67508) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:54:46,922] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:54:46,931] {logging_mixin.py:104} INFO - [2023-07-20 15:54:46,926] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:54:47,008] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:54:47,110] {logging_mixin.py:104} INFO - [2023-07-20 15:54:47,110] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:54:47,159] {logging_mixin.py:104} INFO - [2023-07-20 15:54:47,159] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:54:47,186] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.317 seconds
+[2023-07-20 15:55:17,696] {scheduler_job.py:182} INFO - Started process (PID=67559) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:55:17,701] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:55:17,705] {logging_mixin.py:104} INFO - [2023-07-20 15:55:17,704] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:55:17,739] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:55:17,830] {logging_mixin.py:104} INFO - [2023-07-20 15:55:17,830] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:55:17,860] {logging_mixin.py:104} INFO - [2023-07-20 15:55:17,860] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:55:17,880] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.194 seconds
+[2023-07-20 15:55:49,229] {scheduler_job.py:182} INFO - Started process (PID=67609) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:55:49,237] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:55:49,240] {logging_mixin.py:104} INFO - [2023-07-20 15:55:49,240] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:55:49,301] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:55:49,381] {logging_mixin.py:104} INFO - [2023-07-20 15:55:49,381] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:55:49,427] {logging_mixin.py:104} INFO - [2023-07-20 15:55:49,427] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:55:49,458] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.248 seconds
+[2023-07-20 15:56:21,293] {scheduler_job.py:182} INFO - Started process (PID=67659) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:56:21,303] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:56:21,308] {logging_mixin.py:104} INFO - [2023-07-20 15:56:21,307] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:56:21,353] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:56:21,391] {logging_mixin.py:104} INFO - [2023-07-20 15:56:21,390] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:56:21,411] {logging_mixin.py:104} INFO - [2023-07-20 15:56:21,411] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:56:21,430] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.154 seconds
+[2023-07-20 15:56:52,803] {scheduler_job.py:182} INFO - Started process (PID=67708) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:56:52,815] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:56:52,818] {logging_mixin.py:104} INFO - [2023-07-20 15:56:52,818] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:56:52,898] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:56:53,008] {logging_mixin.py:104} INFO - [2023-07-20 15:56:53,008] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:56:53,037] {logging_mixin.py:104} INFO - [2023-07-20 15:56:53,037] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:56:53,072] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.291 seconds
+[2023-07-20 15:57:25,842] {scheduler_job.py:182} INFO - Started process (PID=67759) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:57:25,855] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:57:25,866] {logging_mixin.py:104} INFO - [2023-07-20 15:57:25,866] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:57:25,967] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:57:26,177] {logging_mixin.py:104} INFO - [2023-07-20 15:57:26,177] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:57:26,242] {logging_mixin.py:104} INFO - [2023-07-20 15:57:26,241] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:57:26,351] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.562 seconds
+[2023-07-20 15:57:57,426] {scheduler_job.py:182} INFO - Started process (PID=67809) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:57:57,431] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:57:57,439] {logging_mixin.py:104} INFO - [2023-07-20 15:57:57,439] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:57:57,526] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:57:57,657] {logging_mixin.py:104} INFO - [2023-07-20 15:57:57,657] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:57:57,748] {logging_mixin.py:104} INFO - [2023-07-20 15:57:57,747] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:57:57,846] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.440 seconds
+[2023-07-20 15:58:28,274] {scheduler_job.py:182} INFO - Started process (PID=67851) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:58:28,286] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:58:28,291] {logging_mixin.py:104} INFO - [2023-07-20 15:58:28,291] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:58:28,320] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:58:28,357] {logging_mixin.py:104} INFO - [2023-07-20 15:58:28,357] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:58:28,377] {logging_mixin.py:104} INFO - [2023-07-20 15:58:28,377] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:58:28,396] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.150 seconds
+[2023-07-20 15:58:58,859] {scheduler_job.py:182} INFO - Started process (PID=67901) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:58:58,877] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:58:58,886] {logging_mixin.py:104} INFO - [2023-07-20 15:58:58,886] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:58:58,928] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:58:58,970] {logging_mixin.py:104} INFO - [2023-07-20 15:58:58,969] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:58:58,993] {logging_mixin.py:104} INFO - [2023-07-20 15:58:58,993] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:58:59,010] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.176 seconds
+[2023-07-20 15:59:29,839] {scheduler_job.py:182} INFO - Started process (PID=67951) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:59:29,859] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 15:59:29,867] {logging_mixin.py:104} INFO - [2023-07-20 15:59:29,867] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:59:29,932] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 15:59:30,013] {logging_mixin.py:104} INFO - [2023-07-20 15:59:30,012] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 15:59:30,045] {logging_mixin.py:104} INFO - [2023-07-20 15:59:30,045] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 15:59:30,068] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.246 seconds
+[2023-07-20 16:00:01,237] {scheduler_job.py:182} INFO - Started process (PID=68002) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:00:01,240] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:00:01,243] {logging_mixin.py:104} INFO - [2023-07-20 16:00:01,243] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:00:01,274] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:00:01,317] {logging_mixin.py:104} INFO - [2023-07-20 16:00:01,317] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:00:01,340] {logging_mixin.py:104} INFO - [2023-07-20 16:00:01,340] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:00:01,374] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.143 seconds
+[2023-07-20 16:00:31,923] {scheduler_job.py:182} INFO - Started process (PID=68053) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:00:31,926] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:00:31,929] {logging_mixin.py:104} INFO - [2023-07-20 16:00:31,929] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:00:31,978] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:00:32,035] {logging_mixin.py:104} INFO - [2023-07-20 16:00:32,035] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:00:32,059] {logging_mixin.py:104} INFO - [2023-07-20 16:00:32,059] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:00:32,099] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.180 seconds
+[2023-07-20 16:01:03,376] {scheduler_job.py:182} INFO - Started process (PID=68104) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:01:03,379] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:01:03,382] {logging_mixin.py:104} INFO - [2023-07-20 16:01:03,382] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:01:03,415] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:01:03,460] {logging_mixin.py:104} INFO - [2023-07-20 16:01:03,460] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:01:03,482] {logging_mixin.py:104} INFO - [2023-07-20 16:01:03,481] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:01:03,500] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.130 seconds
+[2023-07-20 16:01:35,415] {scheduler_job.py:182} INFO - Started process (PID=68166) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:01:35,421] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:01:35,423] {logging_mixin.py:104} INFO - [2023-07-20 16:01:35,422] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:01:35,489] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:01:35,616] {logging_mixin.py:104} INFO - [2023-07-20 16:01:35,616] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:01:35,676] {logging_mixin.py:104} INFO - [2023-07-20 16:01:35,676] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:01:35,791] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.391 seconds
+[2023-07-20 16:02:07,420] {scheduler_job.py:182} INFO - Started process (PID=68216) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:02:07,429] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:02:07,435] {logging_mixin.py:104} INFO - [2023-07-20 16:02:07,434] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:02:07,475] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:02:07,546] {logging_mixin.py:104} INFO - [2023-07-20 16:02:07,546] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:02:07,593] {logging_mixin.py:104} INFO - [2023-07-20 16:02:07,593] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:02:07,629] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.228 seconds
+[2023-07-20 16:02:40,840] {scheduler_job.py:182} INFO - Started process (PID=68266) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:02:40,852] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:02:40,869] {logging_mixin.py:104} INFO - [2023-07-20 16:02:40,866] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:02:41,071] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:02:41,254] {logging_mixin.py:104} INFO - [2023-07-20 16:02:41,254] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:02:41,304] {logging_mixin.py:104} INFO - [2023-07-20 16:02:41,304] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:02:41,360] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.560 seconds
+[2023-07-20 16:03:11,467] {scheduler_job.py:182} INFO - Started process (PID=68307) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:03:11,472] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:03:11,480] {logging_mixin.py:104} INFO - [2023-07-20 16:03:11,479] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:03:11,520] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:03:11,580] {logging_mixin.py:104} INFO - [2023-07-20 16:03:11,580] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:03:11,618] {logging_mixin.py:104} INFO - [2023-07-20 16:03:11,617] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:03:11,643] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.184 seconds
+[2023-07-20 16:03:41,811] {scheduler_job.py:182} INFO - Started process (PID=68358) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:03:41,817] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:03:41,821] {logging_mixin.py:104} INFO - [2023-07-20 16:03:41,820] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:03:41,862] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:03:41,950] {logging_mixin.py:104} INFO - [2023-07-20 16:03:41,949] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:03:41,989] {logging_mixin.py:104} INFO - [2023-07-20 16:03:41,988] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:03:42,018] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.226 seconds
+[2023-07-20 16:04:13,992] {scheduler_job.py:182} INFO - Started process (PID=68409) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:04:14,011] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:04:14,019] {logging_mixin.py:104} INFO - [2023-07-20 16:04:14,019] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:04:14,049] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:04:14,124] {logging_mixin.py:104} INFO - [2023-07-20 16:04:14,124] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:04:14,182] {logging_mixin.py:104} INFO - [2023-07-20 16:04:14,182] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:04:14,219] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.245 seconds
+[2023-07-20 16:04:44,475] {scheduler_job.py:182} INFO - Started process (PID=68458) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:04:44,479] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:04:44,491] {logging_mixin.py:104} INFO - [2023-07-20 16:04:44,491] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:04:44,575] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:04:44,708] {logging_mixin.py:104} INFO - [2023-07-20 16:04:44,707] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:04:44,777] {logging_mixin.py:104} INFO - [2023-07-20 16:04:44,777] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:04:44,844] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.388 seconds
+[2023-07-20 16:05:15,035] {scheduler_job.py:182} INFO - Started process (PID=68498) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:05:15,041] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:05:15,043] {logging_mixin.py:104} INFO - [2023-07-20 16:05:15,042] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:05:15,073] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:05:15,153] {logging_mixin.py:104} INFO - [2023-07-20 16:05:15,152] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:05:15,197] {logging_mixin.py:104} INFO - [2023-07-20 16:05:15,197] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:05:15,219] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.190 seconds
+[2023-07-20 16:05:45,652] {scheduler_job.py:182} INFO - Started process (PID=68547) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:05:45,664] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:05:45,670] {logging_mixin.py:104} INFO - [2023-07-20 16:05:45,670] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:05:45,702] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:05:45,740] {logging_mixin.py:104} INFO - [2023-07-20 16:05:45,740] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:05:45,761] {logging_mixin.py:104} INFO - [2023-07-20 16:05:45,761] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:05:45,778] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.141 seconds
+[2023-07-20 16:06:15,866] {scheduler_job.py:182} INFO - Started process (PID=68598) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:06:15,886] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:06:15,895] {logging_mixin.py:104} INFO - [2023-07-20 16:06:15,894] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:06:15,927] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:06:15,963] {logging_mixin.py:104} INFO - [2023-07-20 16:06:15,962] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:06:15,982] {logging_mixin.py:104} INFO - [2023-07-20 16:06:15,982] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:06:16,000] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.158 seconds
+[2023-07-20 16:06:46,189] {scheduler_job.py:182} INFO - Started process (PID=68649) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:06:46,194] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:06:46,197] {logging_mixin.py:104} INFO - [2023-07-20 16:06:46,197] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:06:46,217] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:06:46,249] {logging_mixin.py:104} INFO - [2023-07-20 16:06:46,249] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:06:46,267] {logging_mixin.py:104} INFO - [2023-07-20 16:06:46,267] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:06:46,284] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.108 seconds
+[2023-07-20 16:07:16,763] {scheduler_job.py:182} INFO - Started process (PID=68700) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:07:16,769] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:07:16,773] {logging_mixin.py:104} INFO - [2023-07-20 16:07:16,773] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:07:16,803] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:07:16,832] {logging_mixin.py:104} INFO - [2023-07-20 16:07:16,832] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:07:16,849] {logging_mixin.py:104} INFO - [2023-07-20 16:07:16,848] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:07:16,864] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.116 seconds
+[2023-07-20 16:07:47,614] {scheduler_job.py:182} INFO - Started process (PID=68762) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:07:47,617] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:07:47,620] {logging_mixin.py:104} INFO - [2023-07-20 16:07:47,620] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:07:47,640] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:07:47,672] {logging_mixin.py:104} INFO - [2023-07-20 16:07:47,671] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:07:47,690] {logging_mixin.py:104} INFO - [2023-07-20 16:07:47,690] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:07:47,707] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2023-07-20 16:08:18,154] {scheduler_job.py:182} INFO - Started process (PID=68814) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:08:18,159] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:08:18,165] {logging_mixin.py:104} INFO - [2023-07-20 16:08:18,164] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:08:18,234] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:08:18,287] {logging_mixin.py:104} INFO - [2023-07-20 16:08:18,286] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:08:18,309] {logging_mixin.py:104} INFO - [2023-07-20 16:08:18,309] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:08:18,330] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.184 seconds
+[2023-07-20 16:08:48,490] {scheduler_job.py:182} INFO - Started process (PID=68865) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:08:48,493] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:08:48,495] {logging_mixin.py:104} INFO - [2023-07-20 16:08:48,494] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:08:48,522] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:08:48,557] {logging_mixin.py:104} INFO - [2023-07-20 16:08:48,557] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:08:48,579] {logging_mixin.py:104} INFO - [2023-07-20 16:08:48,579] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:08:48,597] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.114 seconds
+[2023-07-20 16:09:18,838] {scheduler_job.py:182} INFO - Started process (PID=68915) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:09:18,840] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:09:18,842] {logging_mixin.py:104} INFO - [2023-07-20 16:09:18,841] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:09:18,867] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:09:18,907] {logging_mixin.py:104} INFO - [2023-07-20 16:09:18,906] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:09:18,946] {logging_mixin.py:104} INFO - [2023-07-20 16:09:18,946] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:09:18,970] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.137 seconds
+[2023-07-20 16:09:49,091] {scheduler_job.py:182} INFO - Started process (PID=68972) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:09:49,095] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:09:49,098] {logging_mixin.py:104} INFO - [2023-07-20 16:09:49,097] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:09:49,150] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:09:49,244] {logging_mixin.py:104} INFO - [2023-07-20 16:09:49,244] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:09:49,291] {logging_mixin.py:104} INFO - [2023-07-20 16:09:49,291] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:09:49,326] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.249 seconds
+[2023-07-20 16:10:19,578] {scheduler_job.py:182} INFO - Started process (PID=69026) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:10:19,582] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:10:19,594] {logging_mixin.py:104} INFO - [2023-07-20 16:10:19,593] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:10:19,626] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:10:19,662] {logging_mixin.py:104} INFO - [2023-07-20 16:10:19,662] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:10:19,682] {logging_mixin.py:104} INFO - [2023-07-20 16:10:19,682] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:10:19,705] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.141 seconds
+[2023-07-20 16:10:50,521] {scheduler_job.py:182} INFO - Started process (PID=69077) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:10:50,536] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:10:50,545] {logging_mixin.py:104} INFO - [2023-07-20 16:10:50,545] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:10:50,661] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:10:50,767] {logging_mixin.py:104} INFO - [2023-07-20 16:10:50,767] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:10:50,815] {logging_mixin.py:104} INFO - [2023-07-20 16:10:50,815] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:10:50,882] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.376 seconds
+[2023-07-20 16:11:21,822] {scheduler_job.py:182} INFO - Started process (PID=69118) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:11:21,827] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:11:21,830] {logging_mixin.py:104} INFO - [2023-07-20 16:11:21,830] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:11:21,848] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:11:21,893] {logging_mixin.py:104} INFO - [2023-07-20 16:11:21,893] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:11:21,918] {logging_mixin.py:104} INFO - [2023-07-20 16:11:21,918] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:11:21,936] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.120 seconds
+[2023-07-20 16:11:52,084] {scheduler_job.py:182} INFO - Started process (PID=69174) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:11:52,090] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:11:52,092] {logging_mixin.py:104} INFO - [2023-07-20 16:11:52,092] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:11:52,147] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:11:52,217] {logging_mixin.py:104} INFO - [2023-07-20 16:11:52,217] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:11:52,260] {logging_mixin.py:104} INFO - [2023-07-20 16:11:52,260] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:11:52,283] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.212 seconds
+[2023-07-20 16:12:22,370] {scheduler_job.py:182} INFO - Started process (PID=69218) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:12:22,381] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:12:22,400] {logging_mixin.py:104} INFO - [2023-07-20 16:12:22,391] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:12:22,477] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:12:22,532] {logging_mixin.py:104} INFO - [2023-07-20 16:12:22,532] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:12:22,565] {logging_mixin.py:104} INFO - [2023-07-20 16:12:22,562] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:12:22,621] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.266 seconds
+[2023-07-20 16:12:52,942] {scheduler_job.py:182} INFO - Started process (PID=69268) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:12:52,945] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:12:52,946] {logging_mixin.py:104} INFO - [2023-07-20 16:12:52,946] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:12:52,966] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:12:52,996] {logging_mixin.py:104} INFO - [2023-07-20 16:12:52,996] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:12:53,012] {logging_mixin.py:104} INFO - [2023-07-20 16:12:53,012] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:12:53,029] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.094 seconds
+[2023-07-20 16:13:23,608] {scheduler_job.py:182} INFO - Started process (PID=69319) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:13:23,624] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:13:23,632] {logging_mixin.py:104} INFO - [2023-07-20 16:13:23,632] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:13:23,668] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:13:23,699] {logging_mixin.py:104} INFO - [2023-07-20 16:13:23,699] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:13:23,716] {logging_mixin.py:104} INFO - [2023-07-20 16:13:23,716] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:13:23,732] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.138 seconds
+[2023-07-20 16:13:54,285] {scheduler_job.py:182} INFO - Started process (PID=69378) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:13:54,293] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:13:54,303] {logging_mixin.py:104} INFO - [2023-07-20 16:13:54,303] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:13:54,353] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:13:54,426] {logging_mixin.py:104} INFO - [2023-07-20 16:13:54,426] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:13:54,487] {logging_mixin.py:104} INFO - [2023-07-20 16:13:54,484] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:13:54,522] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.254 seconds
+[2023-07-20 16:14:24,565] {scheduler_job.py:182} INFO - Started process (PID=69430) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:14:24,568] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:14:24,569] {logging_mixin.py:104} INFO - [2023-07-20 16:14:24,569] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:14:24,589] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:14:24,616] {logging_mixin.py:104} INFO - [2023-07-20 16:14:24,616] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:14:24,634] {logging_mixin.py:104} INFO - [2023-07-20 16:14:24,633] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:14:24,650] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.090 seconds
+[2023-07-20 16:14:55,180] {scheduler_job.py:182} INFO - Started process (PID=69482) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:14:55,184] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:14:55,186] {logging_mixin.py:104} INFO - [2023-07-20 16:14:55,186] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:14:55,212] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:14:55,252] {logging_mixin.py:104} INFO - [2023-07-20 16:14:55,252] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:14:55,287] {logging_mixin.py:104} INFO - [2023-07-20 16:14:55,286] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:14:55,306] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.132 seconds
+[2023-07-20 16:15:25,766] {scheduler_job.py:182} INFO - Started process (PID=69534) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:15:25,771] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:15:25,773] {logging_mixin.py:104} INFO - [2023-07-20 16:15:25,773] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:15:25,794] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:15:25,823] {logging_mixin.py:104} INFO - [2023-07-20 16:15:25,823] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:15:25,839] {logging_mixin.py:104} INFO - [2023-07-20 16:15:25,839] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:15:25,854] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2023-07-20 16:15:56,410] {scheduler_job.py:182} INFO - Started process (PID=69595) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:15:56,413] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:15:56,415] {logging_mixin.py:104} INFO - [2023-07-20 16:15:56,415] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:15:56,451] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:15:56,491] {logging_mixin.py:104} INFO - [2023-07-20 16:15:56,491] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:15:56,509] {logging_mixin.py:104} INFO - [2023-07-20 16:15:56,509] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:15:56,524] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.119 seconds
+[2023-07-20 16:16:27,065] {scheduler_job.py:182} INFO - Started process (PID=69647) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:16:27,068] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:16:27,070] {logging_mixin.py:104} INFO - [2023-07-20 16:16:27,070] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:16:27,088] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:16:27,120] {logging_mixin.py:104} INFO - [2023-07-20 16:16:27,120] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:16:27,139] {logging_mixin.py:104} INFO - [2023-07-20 16:16:27,139] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:16:27,155] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2023-07-20 16:16:57,555] {scheduler_job.py:182} INFO - Started process (PID=69698) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:16:57,559] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 16:16:57,563] {logging_mixin.py:104} INFO - [2023-07-20 16:16:57,563] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:16:57,598] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 16:16:57,639] {logging_mixin.py:104} INFO - [2023-07-20 16:16:57,639] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 16:16:57,663] {logging_mixin.py:104} INFO - [2023-07-20 16:16:57,663] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 16:16:57,685] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2023-07-20 19:31:20,255] {scheduler_job.py:182} INFO - Started process (PID=69777) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:31:20,265] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:31:20,274] {logging_mixin.py:104} INFO - [2023-07-20 19:31:20,273] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:31:20,360] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:31:20,518] {logging_mixin.py:104} INFO - [2023-07-20 19:31:20,517] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:31:20,567] {logging_mixin.py:104} INFO - [2023-07-20 19:31:20,566] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:31:20,602] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.366 seconds
+[2023-07-20 19:31:52,856] {scheduler_job.py:182} INFO - Started process (PID=69826) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:31:52,870] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:31:52,891] {logging_mixin.py:104} INFO - [2023-07-20 19:31:52,891] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:31:53,003] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:31:53,164] {logging_mixin.py:104} INFO - [2023-07-20 19:31:53,164] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:31:53,229] {logging_mixin.py:104} INFO - [2023-07-20 19:31:53,229] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:31:53,276] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.445 seconds
+[2023-07-20 19:32:25,347] {scheduler_job.py:182} INFO - Started process (PID=69879) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:32:25,369] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:32:25,372] {logging_mixin.py:104} INFO - [2023-07-20 19:32:25,372] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:32:25,490] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:32:25,603] {logging_mixin.py:104} INFO - [2023-07-20 19:32:25,603] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:32:25,687] {logging_mixin.py:104} INFO - [2023-07-20 19:32:25,687] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:32:25,794] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.465 seconds
+[2023-07-20 19:32:56,567] {scheduler_job.py:182} INFO - Started process (PID=69932) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:32:56,580] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:32:56,584] {logging_mixin.py:104} INFO - [2023-07-20 19:32:56,584] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:32:56,662] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:32:56,745] {logging_mixin.py:104} INFO - [2023-07-20 19:32:56,745] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:32:56,814] {logging_mixin.py:104} INFO - [2023-07-20 19:32:56,814] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:32:56,841] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.305 seconds
+[2023-07-20 19:33:27,622] {scheduler_job.py:182} INFO - Started process (PID=69982) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:33:27,638] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:33:27,651] {logging_mixin.py:104} INFO - [2023-07-20 19:33:27,650] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:33:27,730] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:33:27,769] {logging_mixin.py:104} INFO - [2023-07-20 19:33:27,769] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:33:27,791] {logging_mixin.py:104} INFO - [2023-07-20 19:33:27,791] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:33:27,813] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.208 seconds
+[2023-07-20 19:33:58,352] {scheduler_job.py:182} INFO - Started process (PID=70032) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:33:58,355] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:33:58,356] {logging_mixin.py:104} INFO - [2023-07-20 19:33:58,356] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:33:58,442] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:33:58,502] {logging_mixin.py:104} INFO - [2023-07-20 19:33:58,502] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:33:58,529] {logging_mixin.py:104} INFO - [2023-07-20 19:33:58,529] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:33:58,551] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.211 seconds
+[2023-07-20 19:34:29,769] {scheduler_job.py:182} INFO - Started process (PID=70092) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:34:29,772] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:34:29,775] {logging_mixin.py:104} INFO - [2023-07-20 19:34:29,775] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:34:29,819] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:34:29,874] {logging_mixin.py:104} INFO - [2023-07-20 19:34:29,874] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:34:29,905] {logging_mixin.py:104} INFO - [2023-07-20 19:34:29,904] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:34:29,931] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.173 seconds
+[2023-07-20 19:35:00,886] {scheduler_job.py:182} INFO - Started process (PID=70142) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:35:00,895] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:35:00,902] {logging_mixin.py:104} INFO - [2023-07-20 19:35:00,901] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:35:00,946] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:35:00,985] {logging_mixin.py:104} INFO - [2023-07-20 19:35:00,985] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:35:01,007] {logging_mixin.py:104} INFO - [2023-07-20 19:35:01,007] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:35:01,025] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.155 seconds
+[2023-07-20 19:35:31,374] {scheduler_job.py:182} INFO - Started process (PID=70192) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:35:31,380] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:35:31,383] {logging_mixin.py:104} INFO - [2023-07-20 19:35:31,382] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:35:31,406] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:35:31,444] {logging_mixin.py:104} INFO - [2023-07-20 19:35:31,443] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:35:31,463] {logging_mixin.py:104} INFO - [2023-07-20 19:35:31,462] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:35:31,486] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.122 seconds
+[2023-07-20 19:36:02,054] {scheduler_job.py:182} INFO - Started process (PID=70253) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:36:02,062] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:36:02,064] {logging_mixin.py:104} INFO - [2023-07-20 19:36:02,064] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:36:02,112] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:36:02,190] {logging_mixin.py:104} INFO - [2023-07-20 19:36:02,190] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:36:02,235] {logging_mixin.py:104} INFO - [2023-07-20 19:36:02,235] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:36:02,269] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.221 seconds
+[2023-07-20 19:36:32,715] {scheduler_job.py:182} INFO - Started process (PID=70301) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:36:32,724] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:36:32,735] {logging_mixin.py:104} INFO - [2023-07-20 19:36:32,733] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:36:32,761] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:36:32,796] {logging_mixin.py:104} INFO - [2023-07-20 19:36:32,795] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:36:32,821] {logging_mixin.py:104} INFO - [2023-07-20 19:36:32,820] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:36:32,847] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.148 seconds
+[2023-07-20 19:37:03,098] {scheduler_job.py:182} INFO - Started process (PID=70353) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:37:03,108] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:37:03,110] {logging_mixin.py:104} INFO - [2023-07-20 19:37:03,110] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:37:03,148] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:37:03,225] {logging_mixin.py:104} INFO - [2023-07-20 19:37:03,224] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:37:03,248] {logging_mixin.py:104} INFO - [2023-07-20 19:37:03,248] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:37:03,262] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.173 seconds
+[2023-07-20 19:37:33,793] {scheduler_job.py:182} INFO - Started process (PID=70403) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:37:33,799] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:37:33,801] {logging_mixin.py:104} INFO - [2023-07-20 19:37:33,801] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:37:33,829] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:37:33,867] {logging_mixin.py:104} INFO - [2023-07-20 19:37:33,867] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:37:33,893] {logging_mixin.py:104} INFO - [2023-07-20 19:37:33,892] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:37:33,920] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.139 seconds
+[2023-07-20 19:38:04,657] {scheduler_job.py:182} INFO - Started process (PID=70463) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:38:04,660] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:38:04,663] {logging_mixin.py:104} INFO - [2023-07-20 19:38:04,663] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:38:04,688] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:38:04,724] {logging_mixin.py:104} INFO - [2023-07-20 19:38:04,724] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:38:04,745] {logging_mixin.py:104} INFO - [2023-07-20 19:38:04,745] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:38:04,763] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.115 seconds
+[2023-07-20 19:38:34,969] {scheduler_job.py:182} INFO - Started process (PID=70514) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:38:34,972] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:38:34,977] {logging_mixin.py:104} INFO - [2023-07-20 19:38:34,976] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:38:35,031] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:38:35,064] {logging_mixin.py:104} INFO - [2023-07-20 19:38:35,064] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:38:35,087] {logging_mixin.py:104} INFO - [2023-07-20 19:38:35,086] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:38:35,122] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.161 seconds
+[2023-07-20 19:39:05,183] {scheduler_job.py:182} INFO - Started process (PID=70574) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:39:05,186] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:39:05,188] {logging_mixin.py:104} INFO - [2023-07-20 19:39:05,188] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:39:05,210] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:39:05,280] {logging_mixin.py:104} INFO - [2023-07-20 19:39:05,280] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:39:05,306] {logging_mixin.py:104} INFO - [2023-07-20 19:39:05,306] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:39:05,341] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.163 seconds
+[2023-07-20 19:39:35,907] {scheduler_job.py:182} INFO - Started process (PID=70624) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:39:35,910] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:39:35,913] {logging_mixin.py:104} INFO - [2023-07-20 19:39:35,913] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:39:35,935] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:39:35,965] {logging_mixin.py:104} INFO - [2023-07-20 19:39:35,965] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:39:35,980] {logging_mixin.py:104} INFO - [2023-07-20 19:39:35,980] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:39:35,996] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.094 seconds
+[2023-07-20 19:40:06,196] {scheduler_job.py:182} INFO - Started process (PID=70674) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:40:06,200] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:40:06,203] {logging_mixin.py:104} INFO - [2023-07-20 19:40:06,202] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:40:06,231] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:40:06,273] {logging_mixin.py:104} INFO - [2023-07-20 19:40:06,273] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:40:06,296] {logging_mixin.py:104} INFO - [2023-07-20 19:40:06,295] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:40:06,315] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.126 seconds
+[2023-07-20 19:40:36,544] {scheduler_job.py:182} INFO - Started process (PID=70725) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:40:36,554] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:40:36,559] {logging_mixin.py:104} INFO - [2023-07-20 19:40:36,558] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:40:36,594] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:40:36,629] {logging_mixin.py:104} INFO - [2023-07-20 19:40:36,629] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:40:36,649] {logging_mixin.py:104} INFO - [2023-07-20 19:40:36,649] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:40:36,675] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.147 seconds
+[2023-07-20 19:41:06,913] {scheduler_job.py:182} INFO - Started process (PID=70786) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:41:06,918] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:41:06,921] {logging_mixin.py:104} INFO - [2023-07-20 19:41:06,920] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:41:06,972] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:41:07,045] {logging_mixin.py:104} INFO - [2023-07-20 19:41:07,045] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:41:07,080] {logging_mixin.py:104} INFO - [2023-07-20 19:41:07,080] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:41:07,131] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.231 seconds
+[2023-07-20 19:41:37,680] {scheduler_job.py:182} INFO - Started process (PID=70836) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:41:37,682] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:41:37,684] {logging_mixin.py:104} INFO - [2023-07-20 19:41:37,684] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:41:37,705] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:41:37,737] {logging_mixin.py:104} INFO - [2023-07-20 19:41:37,737] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:41:37,759] {logging_mixin.py:104} INFO - [2023-07-20 19:41:37,759] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:41:37,777] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2023-07-20 19:42:07,901] {scheduler_job.py:182} INFO - Started process (PID=70899) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:42:07,907] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:42:07,910] {logging_mixin.py:104} INFO - [2023-07-20 19:42:07,910] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:42:07,950] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:42:07,992] {logging_mixin.py:104} INFO - [2023-07-20 19:42:07,992] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:42:08,040] {logging_mixin.py:104} INFO - [2023-07-20 19:42:08,040] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:42:08,066] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.172 seconds
+[2023-07-20 19:42:38,550] {scheduler_job.py:182} INFO - Started process (PID=70951) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:42:38,562] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:42:38,566] {logging_mixin.py:104} INFO - [2023-07-20 19:42:38,565] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:42:38,594] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:42:38,625] {logging_mixin.py:104} INFO - [2023-07-20 19:42:38,624] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:42:38,646] {logging_mixin.py:104} INFO - [2023-07-20 19:42:38,645] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:42:38,663] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.143 seconds
+[2023-07-20 19:43:08,923] {scheduler_job.py:182} INFO - Started process (PID=71002) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:43:08,929] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:43:08,932] {logging_mixin.py:104} INFO - [2023-07-20 19:43:08,932] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:43:09,019] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:43:09,103] {logging_mixin.py:104} INFO - [2023-07-20 19:43:09,103] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:43:09,132] {logging_mixin.py:104} INFO - [2023-07-20 19:43:09,131] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:43:09,300] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.387 seconds
+[2023-07-20 19:43:40,179] {scheduler_job.py:182} INFO - Started process (PID=71061) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:43:40,186] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:43:40,194] {logging_mixin.py:104} INFO - [2023-07-20 19:43:40,194] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:43:40,239] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:43:40,328] {logging_mixin.py:104} INFO - [2023-07-20 19:43:40,328] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:43:40,356] {logging_mixin.py:104} INFO - [2023-07-20 19:43:40,356] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:43:40,518] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.344 seconds
+[2023-07-20 19:44:10,842] {scheduler_job.py:182} INFO - Started process (PID=71111) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:44:10,846] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:44:10,849] {logging_mixin.py:104} INFO - [2023-07-20 19:44:10,849] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:44:10,881] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:44:10,923] {logging_mixin.py:104} INFO - [2023-07-20 19:44:10,922] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:44:11,038] {logging_mixin.py:104} INFO - [2023-07-20 19:44:11,038] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:44:11,053] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.216 seconds
+[2023-07-20 19:44:41,166] {scheduler_job.py:182} INFO - Started process (PID=71161) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:44:41,169] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:44:41,171] {logging_mixin.py:104} INFO - [2023-07-20 19:44:41,171] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:44:41,197] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:44:41,231] {logging_mixin.py:104} INFO - [2023-07-20 19:44:41,231] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:44:41,412] {logging_mixin.py:104} INFO - [2023-07-20 19:44:41,412] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:44:41,444] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.283 seconds
+[2023-07-20 19:45:11,745] {scheduler_job.py:182} INFO - Started process (PID=71213) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:45:11,748] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:45:11,751] {logging_mixin.py:104} INFO - [2023-07-20 19:45:11,751] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:45:11,771] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:45:11,808] {logging_mixin.py:104} INFO - [2023-07-20 19:45:11,807] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:45:11,958] {logging_mixin.py:104} INFO - [2023-07-20 19:45:11,958] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:45:11,977] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.238 seconds
+[2023-07-20 19:45:42,027] {scheduler_job.py:182} INFO - Started process (PID=71273) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:45:42,034] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:45:42,043] {logging_mixin.py:104} INFO - [2023-07-20 19:45:42,043] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:45:42,082] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:45:42,151] {logging_mixin.py:104} INFO - [2023-07-20 19:45:42,151] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:45:42,441] {logging_mixin.py:104} INFO - [2023-07-20 19:45:42,441] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:45:42,484] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.464 seconds
+[2023-07-20 19:46:13,194] {scheduler_job.py:182} INFO - Started process (PID=71324) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:46:13,202] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:46:13,204] {logging_mixin.py:104} INFO - [2023-07-20 19:46:13,203] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:46:13,273] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:46:13,499] {logging_mixin.py:104} INFO - [2023-07-20 19:46:13,498] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:46:13,533] {logging_mixin.py:104} INFO - [2023-07-20 19:46:13,532] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:46:13,551] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.362 seconds
+[2023-07-20 19:46:43,882] {scheduler_job.py:182} INFO - Started process (PID=71375) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:46:43,886] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:46:43,889] {logging_mixin.py:104} INFO - [2023-07-20 19:46:43,889] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:46:43,915] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:46:44,067] {logging_mixin.py:104} INFO - [2023-07-20 19:46:44,067] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:46:44,089] {logging_mixin.py:104} INFO - [2023-07-20 19:46:44,088] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:46:44,102] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.227 seconds
+[2023-07-20 19:47:14,733] {scheduler_job.py:182} INFO - Started process (PID=71436) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:47:14,744] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 19:47:14,758] {logging_mixin.py:104} INFO - [2023-07-20 19:47:14,757] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:47:14,845] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 19:47:15,110] {logging_mixin.py:104} INFO - [2023-07-20 19:47:15,110] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 19:47:15,127] {logging_mixin.py:104} INFO - [2023-07-20 19:47:15,127] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 19:47:15,147] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.419 seconds
+[2023-07-20 22:20:36,530] {scheduler_job.py:182} INFO - Started process (PID=71510) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:20:36,539] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:20:36,548] {logging_mixin.py:104} INFO - [2023-07-20 22:20:36,546] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:20:36,948] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:20:37,059] {logging_mixin.py:104} INFO - [2023-07-20 22:20:37,058] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:20:37,131] {logging_mixin.py:104} INFO - [2023-07-20 22:20:37,131] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:20:37,188] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.678 seconds
+[2023-07-20 22:21:07,514] {scheduler_job.py:182} INFO - Started process (PID=71550) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:21:07,519] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:21:07,525] {logging_mixin.py:104} INFO - [2023-07-20 22:21:07,525] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:21:07,807] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:21:07,844] {logging_mixin.py:104} INFO - [2023-07-20 22:21:07,844] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:21:07,868] {logging_mixin.py:104} INFO - [2023-07-20 22:21:07,868] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:21:07,891] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.382 seconds
+[2023-07-20 22:21:38,294] {scheduler_job.py:182} INFO - Started process (PID=71601) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:21:38,296] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:21:38,298] {logging_mixin.py:104} INFO - [2023-07-20 22:21:38,298] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:21:38,424] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:21:38,448] {logging_mixin.py:104} INFO - [2023-07-20 22:21:38,448] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:21:38,463] {logging_mixin.py:104} INFO - [2023-07-20 22:21:38,463] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:21:38,477] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.190 seconds
+[2023-07-20 22:22:13,555] {scheduler_job.py:182} INFO - Started process (PID=71661) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:22:13,567] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:22:13,576] {logging_mixin.py:104} INFO - [2023-07-20 22:22:13,576] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:22:13,976] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:22:14,083] {logging_mixin.py:104} INFO - [2023-07-20 22:22:14,083] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:22:14,140] {logging_mixin.py:104} INFO - [2023-07-20 22:22:14,139] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:22:14,201] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.670 seconds
+[2023-07-20 22:22:45,002] {scheduler_job.py:182} INFO - Started process (PID=71703) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:22:45,212] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:22:45,217] {logging_mixin.py:104} INFO - [2023-07-20 22:22:45,217] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:22:45,256] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:22:45,372] {logging_mixin.py:104} INFO - [2023-07-20 22:22:45,371] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:22:45,409] {logging_mixin.py:104} INFO - [2023-07-20 22:22:45,408] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:22:45,476] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.518 seconds
+[2023-07-20 22:23:16,372] {scheduler_job.py:182} INFO - Started process (PID=71754) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:23:16,411] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:23:16,424] {logging_mixin.py:104} INFO - [2023-07-20 22:23:16,423] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:23:16,513] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:23:16,606] {logging_mixin.py:104} INFO - [2023-07-20 22:23:16,606] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:23:16,657] {logging_mixin.py:104} INFO - [2023-07-20 22:23:16,657] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:23:16,729] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.385 seconds
+[2023-07-20 22:23:47,582] {scheduler_job.py:182} INFO - Started process (PID=71805) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:23:47,588] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:23:47,591] {logging_mixin.py:104} INFO - [2023-07-20 22:23:47,590] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:23:47,626] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:23:47,661] {logging_mixin.py:104} INFO - [2023-07-20 22:23:47,661] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:23:47,687] {logging_mixin.py:104} INFO - [2023-07-20 22:23:47,687] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:23:47,712] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.139 seconds
+[2023-07-20 22:24:17,823] {scheduler_job.py:182} INFO - Started process (PID=71855) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:24:17,827] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:24:17,838] {logging_mixin.py:104} INFO - [2023-07-20 22:24:17,838] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:24:17,868] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:24:17,915] {logging_mixin.py:104} INFO - [2023-07-20 22:24:17,914] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:24:17,954] {logging_mixin.py:104} INFO - [2023-07-20 22:24:17,954] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:24:17,974] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.167 seconds
+[2023-07-20 22:24:48,134] {scheduler_job.py:182} INFO - Started process (PID=71904) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:24:48,147] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:24:48,162] {logging_mixin.py:104} INFO - [2023-07-20 22:24:48,161] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:24:48,220] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:24:48,256] {logging_mixin.py:104} INFO - [2023-07-20 22:24:48,256] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:24:48,281] {logging_mixin.py:104} INFO - [2023-07-20 22:24:48,281] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:24:48,323] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.207 seconds
+[2023-07-20 22:25:18,516] {scheduler_job.py:182} INFO - Started process (PID=71955) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:25:18,529] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:25:18,535] {logging_mixin.py:104} INFO - [2023-07-20 22:25:18,535] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:25:18,559] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:25:18,596] {logging_mixin.py:104} INFO - [2023-07-20 22:25:18,596] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:25:18,613] {logging_mixin.py:104} INFO - [2023-07-20 22:25:18,613] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:25:18,631] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.133 seconds
+[2023-07-20 22:25:48,695] {scheduler_job.py:182} INFO - Started process (PID=72006) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:25:48,700] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:25:48,704] {logging_mixin.py:104} INFO - [2023-07-20 22:25:48,704] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:25:48,765] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:25:48,837] {logging_mixin.py:104} INFO - [2023-07-20 22:25:48,837] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:25:48,876] {logging_mixin.py:104} INFO - [2023-07-20 22:25:48,876] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:25:48,926] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.237 seconds
+[2023-07-20 22:26:20,537] {scheduler_job.py:182} INFO - Started process (PID=72056) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:26:20,545] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:26:20,549] {logging_mixin.py:104} INFO - [2023-07-20 22:26:20,549] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:26:20,646] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:26:20,775] {logging_mixin.py:104} INFO - [2023-07-20 22:26:20,775] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:26:20,837] {logging_mixin.py:104} INFO - [2023-07-20 22:26:20,837] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:26:20,885] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.365 seconds
+[2023-07-20 22:26:51,167] {scheduler_job.py:182} INFO - Started process (PID=72105) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:26:51,181] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:26:51,193] {logging_mixin.py:104} INFO - [2023-07-20 22:26:51,192] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:26:51,289] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:26:51,376] {logging_mixin.py:104} INFO - [2023-07-20 22:26:51,376] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:26:51,412] {logging_mixin.py:104} INFO - [2023-07-20 22:26:51,411] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:26:51,461] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.307 seconds
+[2023-07-20 22:27:21,736] {scheduler_job.py:182} INFO - Started process (PID=72147) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:27:21,741] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:27:21,742] {logging_mixin.py:104} INFO - [2023-07-20 22:27:21,742] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:27:21,771] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:27:21,810] {logging_mixin.py:104} INFO - [2023-07-20 22:27:21,810] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:27:21,834] {logging_mixin.py:104} INFO - [2023-07-20 22:27:21,834] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:27:21,854] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.124 seconds
+[2023-07-20 22:27:52,593] {scheduler_job.py:182} INFO - Started process (PID=72198) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:27:52,597] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:27:52,600] {logging_mixin.py:104} INFO - [2023-07-20 22:27:52,599] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:27:52,634] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:27:52,683] {logging_mixin.py:104} INFO - [2023-07-20 22:27:52,683] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:27:52,710] {logging_mixin.py:104} INFO - [2023-07-20 22:27:52,709] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:27:52,730] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.146 seconds
+[2023-07-20 22:28:22,808] {scheduler_job.py:182} INFO - Started process (PID=72248) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:28:22,811] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:28:22,813] {logging_mixin.py:104} INFO - [2023-07-20 22:28:22,812] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:28:22,838] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:28:22,879] {logging_mixin.py:104} INFO - [2023-07-20 22:28:22,879] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:28:22,923] {logging_mixin.py:104} INFO - [2023-07-20 22:28:22,923] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:28:22,950] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.148 seconds
+[2023-07-20 22:28:53,551] {scheduler_job.py:182} INFO - Started process (PID=72309) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:28:53,562] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:28:53,568] {logging_mixin.py:104} INFO - [2023-07-20 22:28:53,568] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:28:53,635] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:28:53,698] {logging_mixin.py:104} INFO - [2023-07-20 22:28:53,698] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:28:53,746] {logging_mixin.py:104} INFO - [2023-07-20 22:28:53,746] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:28:53,776] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.231 seconds
+[2023-07-20 22:29:24,934] {scheduler_job.py:182} INFO - Started process (PID=72360) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:29:24,943] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:29:24,948] {logging_mixin.py:104} INFO - [2023-07-20 22:29:24,947] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:29:25,037] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:29:25,147] {logging_mixin.py:104} INFO - [2023-07-20 22:29:25,146] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:29:25,240] {logging_mixin.py:104} INFO - [2023-07-20 22:29:25,239] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:29:25,334] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.414 seconds
+[2023-07-20 22:29:55,567] {scheduler_job.py:182} INFO - Started process (PID=72409) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:29:55,572] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:29:55,576] {logging_mixin.py:104} INFO - [2023-07-20 22:29:55,576] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:29:55,621] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:29:55,685] {logging_mixin.py:104} INFO - [2023-07-20 22:29:55,684] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:29:55,722] {logging_mixin.py:104} INFO - [2023-07-20 22:29:55,722] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:29:55,754] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.201 seconds
+[2023-07-20 22:30:26,975] {scheduler_job.py:182} INFO - Started process (PID=72459) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:30:26,983] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:30:26,987] {logging_mixin.py:104} INFO - [2023-07-20 22:30:26,987] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:30:27,112] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:30:27,198] {logging_mixin.py:104} INFO - [2023-07-20 22:30:27,197] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:30:27,252] {logging_mixin.py:104} INFO - [2023-07-20 22:30:27,252] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:30:27,282] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.348 seconds
+[2023-07-20 22:30:57,445] {scheduler_job.py:182} INFO - Started process (PID=72500) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:30:57,447] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:30:57,450] {logging_mixin.py:104} INFO - [2023-07-20 22:30:57,449] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:30:57,483] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:30:57,534] {logging_mixin.py:104} INFO - [2023-07-20 22:30:57,534] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:30:57,594] {logging_mixin.py:104} INFO - [2023-07-20 22:30:57,593] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:30:57,621] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.183 seconds
+[2023-07-20 22:31:28,394] {scheduler_job.py:182} INFO - Started process (PID=72551) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:31:28,397] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:31:28,400] {logging_mixin.py:104} INFO - [2023-07-20 22:31:28,400] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:31:28,444] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:31:28,501] {logging_mixin.py:104} INFO - [2023-07-20 22:31:28,501] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:31:28,537] {logging_mixin.py:104} INFO - [2023-07-20 22:31:28,537] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:31:28,559] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.180 seconds
+[2023-07-20 22:31:58,973] {scheduler_job.py:182} INFO - Started process (PID=72601) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:31:58,978] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:31:58,981] {logging_mixin.py:104} INFO - [2023-07-20 22:31:58,980] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:31:59,016] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:31:59,071] {logging_mixin.py:104} INFO - [2023-07-20 22:31:59,071] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:31:59,107] {logging_mixin.py:104} INFO - [2023-07-20 22:31:59,106] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:31:59,129] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.166 seconds
+[2023-07-20 22:32:30,154] {scheduler_job.py:182} INFO - Started process (PID=72652) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:32:30,161] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:32:30,172] {logging_mixin.py:104} INFO - [2023-07-20 22:32:30,171] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:32:30,244] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:32:30,352] {logging_mixin.py:104} INFO - [2023-07-20 22:32:30,352] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:32:30,420] {logging_mixin.py:104} INFO - [2023-07-20 22:32:30,419] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:32:30,474] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.343 seconds
+[2023-07-20 22:33:00,797] {scheduler_job.py:182} INFO - Started process (PID=72693) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:33:00,813] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:33:00,816] {logging_mixin.py:104} INFO - [2023-07-20 22:33:00,815] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:33:00,861] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:33:00,928] {logging_mixin.py:104} INFO - [2023-07-20 22:33:00,928] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:33:00,952] {logging_mixin.py:104} INFO - [2023-07-20 22:33:00,952] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:33:00,978] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.189 seconds
+[2023-07-20 22:33:31,230] {scheduler_job.py:182} INFO - Started process (PID=72743) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:33:31,254] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:33:31,275] {logging_mixin.py:104} INFO - [2023-07-20 22:33:31,274] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:33:31,571] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:33:32,093] {logging_mixin.py:104} INFO - [2023-07-20 22:33:32,093] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:33:32,162] {logging_mixin.py:104} INFO - [2023-07-20 22:33:32,162] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:33:32,251] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 1.058 seconds
+[2023-07-20 22:34:03,136] {scheduler_job.py:182} INFO - Started process (PID=72786) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:34:03,141] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:34:03,158] {logging_mixin.py:104} INFO - [2023-07-20 22:34:03,158] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:34:03,209] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:34:03,287] {logging_mixin.py:104} INFO - [2023-07-20 22:34:03,287] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:34:03,362] {logging_mixin.py:104} INFO - [2023-07-20 22:34:03,362] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:34:03,414] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.287 seconds
+[2023-07-20 22:34:33,713] {scheduler_job.py:182} INFO - Started process (PID=72838) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:34:33,726] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:34:33,741] {logging_mixin.py:104} INFO - [2023-07-20 22:34:33,732] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:34:33,834] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:34:33,978] {logging_mixin.py:104} INFO - [2023-07-20 22:34:33,978] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:34:34,020] {logging_mixin.py:104} INFO - [2023-07-20 22:34:34,019] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:34:34,126] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.450 seconds
+[2023-07-20 22:35:04,320] {scheduler_job.py:182} INFO - Started process (PID=72889) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:35:04,330] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:35:04,338] {logging_mixin.py:104} INFO - [2023-07-20 22:35:04,338] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:35:04,407] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:35:04,486] {logging_mixin.py:104} INFO - [2023-07-20 22:35:04,486] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:35:04,544] {logging_mixin.py:104} INFO - [2023-07-20 22:35:04,544] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:35:04,585] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.283 seconds
+[2023-07-20 22:35:35,384] {scheduler_job.py:182} INFO - Started process (PID=72938) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:35:35,390] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:35:35,400] {logging_mixin.py:104} INFO - [2023-07-20 22:35:35,394] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:35:35,486] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:35:35,569] {logging_mixin.py:104} INFO - [2023-07-20 22:35:35,568] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:35:35,610] {logging_mixin.py:104} INFO - [2023-07-20 22:35:35,610] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:35:35,649] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.329 seconds
+[2023-07-20 22:36:05,819] {scheduler_job.py:182} INFO - Started process (PID=72979) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:36:05,839] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:36:05,843] {logging_mixin.py:104} INFO - [2023-07-20 22:36:05,842] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:36:05,942] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:36:06,116] {logging_mixin.py:104} INFO - [2023-07-20 22:36:06,115] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:36:06,242] {logging_mixin.py:104} INFO - [2023-07-20 22:36:06,242] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:36:06,339] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.552 seconds
+[2023-07-20 22:36:36,531] {scheduler_job.py:182} INFO - Started process (PID=73030) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:36:36,539] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:36:36,551] {logging_mixin.py:104} INFO - [2023-07-20 22:36:36,550] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:36:36,599] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:36:36,690] {logging_mixin.py:104} INFO - [2023-07-20 22:36:36,690] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:36:36,731] {logging_mixin.py:104} INFO - [2023-07-20 22:36:36,730] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:36:36,771] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.254 seconds
+[2023-07-20 22:37:07,102] {scheduler_job.py:182} INFO - Started process (PID=73080) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:37:07,125] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:37:07,143] {logging_mixin.py:104} INFO - [2023-07-20 22:37:07,143] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:37:07,353] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:37:07,666] {logging_mixin.py:104} INFO - [2023-07-20 22:37:07,665] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:37:07,805] {logging_mixin.py:104} INFO - [2023-07-20 22:37:07,805] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:37:07,873] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.824 seconds
+[2023-07-20 22:37:38,383] {scheduler_job.py:182} INFO - Started process (PID=73128) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:37:38,404] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:37:38,414] {logging_mixin.py:104} INFO - [2023-07-20 22:37:38,413] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:37:38,500] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:37:38,660] {logging_mixin.py:104} INFO - [2023-07-20 22:37:38,660] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:37:38,776] {logging_mixin.py:104} INFO - [2023-07-20 22:37:38,776] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:37:38,928] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.577 seconds
+[2023-07-20 22:38:09,623] {scheduler_job.py:182} INFO - Started process (PID=73173) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:38:09,628] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:38:09,639] {logging_mixin.py:104} INFO - [2023-07-20 22:38:09,639] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:38:09,681] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:38:09,771] {logging_mixin.py:104} INFO - [2023-07-20 22:38:09,770] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:38:09,805] {logging_mixin.py:104} INFO - [2023-07-20 22:38:09,805] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:38:09,839] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.233 seconds
+[2023-07-20 22:38:40,034] {scheduler_job.py:182} INFO - Started process (PID=73225) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:38:40,050] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:38:40,072] {logging_mixin.py:104} INFO - [2023-07-20 22:38:40,056] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:38:40,191] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:38:40,316] {logging_mixin.py:104} INFO - [2023-07-20 22:38:40,312] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:38:40,384] {logging_mixin.py:104} INFO - [2023-07-20 22:38:40,384] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:38:40,442] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.440 seconds
+[2023-07-20 22:39:11,116] {scheduler_job.py:182} INFO - Started process (PID=73272) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:39:11,121] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:39:11,130] {logging_mixin.py:104} INFO - [2023-07-20 22:39:11,129] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:39:11,261] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:39:11,416] {logging_mixin.py:104} INFO - [2023-07-20 22:39:11,416] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:39:11,493] {logging_mixin.py:104} INFO - [2023-07-20 22:39:11,493] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:39:11,560] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.462 seconds
+[2023-07-20 22:39:42,136] {scheduler_job.py:182} INFO - Started process (PID=73316) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:39:42,144] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:39:42,149] {logging_mixin.py:104} INFO - [2023-07-20 22:39:42,148] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:39:42,208] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:39:42,286] {logging_mixin.py:104} INFO - [2023-07-20 22:39:42,285] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:39:42,330] {logging_mixin.py:104} INFO - [2023-07-20 22:39:42,329] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:39:42,360] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.233 seconds
+[2023-07-20 22:40:12,723] {scheduler_job.py:182} INFO - Started process (PID=73367) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:40:12,735] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:40:12,757] {logging_mixin.py:104} INFO - [2023-07-20 22:40:12,756] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:40:12,915] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:40:13,241] {logging_mixin.py:104} INFO - [2023-07-20 22:40:13,241] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:40:13,346] {logging_mixin.py:104} INFO - [2023-07-20 22:40:13,344] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:40:13,392] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.709 seconds
+[2023-07-20 22:40:43,717] {scheduler_job.py:182} INFO - Started process (PID=73409) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:40:43,722] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:40:43,724] {logging_mixin.py:104} INFO - [2023-07-20 22:40:43,724] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:40:43,768] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:40:43,823] {logging_mixin.py:104} INFO - [2023-07-20 22:40:43,823] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:40:43,869] {logging_mixin.py:104} INFO - [2023-07-20 22:40:43,869] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:40:43,908] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.199 seconds
+[2023-07-20 22:41:14,156] {scheduler_job.py:182} INFO - Started process (PID=73459) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:41:14,170] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:41:14,184] {logging_mixin.py:104} INFO - [2023-07-20 22:41:14,180] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:41:14,275] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:41:14,435] {logging_mixin.py:104} INFO - [2023-07-20 22:41:14,435] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:41:14,713] {logging_mixin.py:104} INFO - [2023-07-20 22:41:14,712] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:41:14,777] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.649 seconds
+[2023-07-20 22:41:45,222] {scheduler_job.py:182} INFO - Started process (PID=73510) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:41:45,234] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:41:45,241] {logging_mixin.py:104} INFO - [2023-07-20 22:41:45,241] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:41:45,388] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:41:45,617] {logging_mixin.py:104} INFO - [2023-07-20 22:41:45,606] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:41:45,760] {logging_mixin.py:104} INFO - [2023-07-20 22:41:45,760] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:41:45,888] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.695 seconds
+[2023-07-20 22:42:16,249] {scheduler_job.py:182} INFO - Started process (PID=73560) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:42:16,284] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:42:16,295] {logging_mixin.py:104} INFO - [2023-07-20 22:42:16,295] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:42:16,419] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:42:16,508] {logging_mixin.py:104} INFO - [2023-07-20 22:42:16,507] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:42:16,535] {logging_mixin.py:104} INFO - [2023-07-20 22:42:16,535] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:42:16,602] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.401 seconds
+[2023-07-20 22:42:47,215] {scheduler_job.py:182} INFO - Started process (PID=73611) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:42:47,221] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:42:47,228] {logging_mixin.py:104} INFO - [2023-07-20 22:42:47,228] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:42:47,302] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:42:47,419] {logging_mixin.py:104} INFO - [2023-07-20 22:42:47,419] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:42:47,503] {logging_mixin.py:104} INFO - [2023-07-20 22:42:47,503] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:42:47,585] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.389 seconds
+[2023-07-20 22:43:18,373] {scheduler_job.py:182} INFO - Started process (PID=73660) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:43:18,400] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:43:18,402] {logging_mixin.py:104} INFO - [2023-07-20 22:43:18,402] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:43:18,640] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:43:18,788] {logging_mixin.py:104} INFO - [2023-07-20 22:43:18,788] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:43:18,909] {logging_mixin.py:104} INFO - [2023-07-20 22:43:18,895] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:43:18,976] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.636 seconds
+[2023-07-20 22:43:49,246] {scheduler_job.py:182} INFO - Started process (PID=73701) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:43:49,289] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:43:49,304] {logging_mixin.py:104} INFO - [2023-07-20 22:43:49,303] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:43:49,415] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:43:49,544] {logging_mixin.py:104} INFO - [2023-07-20 22:43:49,543] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:43:49,616] {logging_mixin.py:104} INFO - [2023-07-20 22:43:49,616] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:43:49,673] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.487 seconds
+[2023-07-20 22:44:19,836] {scheduler_job.py:182} INFO - Started process (PID=73752) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:44:19,841] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:44:19,848] {logging_mixin.py:104} INFO - [2023-07-20 22:44:19,847] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:44:19,953] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:44:20,056] {logging_mixin.py:104} INFO - [2023-07-20 22:44:20,056] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:44:20,103] {logging_mixin.py:104} INFO - [2023-07-20 22:44:20,103] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:44:20,137] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.308 seconds
+[2023-07-20 22:44:50,514] {scheduler_job.py:182} INFO - Started process (PID=73803) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:44:50,529] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:44:50,531] {logging_mixin.py:104} INFO - [2023-07-20 22:44:50,531] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:44:50,692] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:44:50,890] {logging_mixin.py:104} INFO - [2023-07-20 22:44:50,889] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:44:50,982] {logging_mixin.py:104} INFO - [2023-07-20 22:44:50,981] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:44:51,057] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.573 seconds
+[2023-07-20 22:45:21,491] {scheduler_job.py:182} INFO - Started process (PID=73851) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:45:21,500] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:45:21,505] {logging_mixin.py:104} INFO - [2023-07-20 22:45:21,504] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:45:21,573] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:45:21,665] {logging_mixin.py:104} INFO - [2023-07-20 22:45:21,665] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:45:21,712] {logging_mixin.py:104} INFO - [2023-07-20 22:45:21,711] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:45:21,750] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.271 seconds
+[2023-07-20 22:45:52,539] {scheduler_job.py:182} INFO - Started process (PID=73894) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:45:52,544] {scheduler_job.py:633} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20 22:45:52,550] {logging_mixin.py:104} INFO - [2023-07-20 22:45:52,550] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:45:52,589] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20 22:45:52,641] {logging_mixin.py:104} INFO - [2023-07-20 22:45:52,641] {dag.py:1833} INFO - Sync 1 DAGs
+[2023-07-20 22:45:52,658] {logging_mixin.py:104} INFO - [2023-07-20 22:45:52,658] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2023-07-18 00:00:00+00:00
+[2023-07-20 22:45:52,684] {scheduler_job.py:190} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/tutorial.py took 0.151 seconds

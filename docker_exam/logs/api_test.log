@@ -1,0 +1,96 @@
+
+        ===============================
+           Sentiment Analysis Test
+        ===============================
+        User: alice
+        Sentence: life is beautiful
+        API Version: v1
+        Expected Sentiment: POSITIVE
+        Actual Sentiment Score: 0.5994
+        ==> POSITIVE
+        
+        ===============================
+           Sentiment Analysis Test
+        ===============================
+        User: alice
+        Sentence: life is beautiful
+        API Version: v2
+        Expected Sentiment: NEGATIVE
+        Actual Sentiment Score: 0.5994
+        ==> POSITIVE
+        
+        ===============================
+           Sentiment Analysis Test
+        ===============================
+        User: alice
+        Sentence: that sucks
+        API Version: v1
+        Expected Sentiment: POSITIVE
+        Actual Sentiment Score: -0.3612
+        ==> NEGATIVE
+        
+        ===============================
+           Sentiment Analysis Test
+        ===============================
+        User: alice
+        Sentence: that sucks
+        API Version: v2
+        Expected Sentiment: NEGATIVE
+        Actual Sentiment Score: -0.3612
+        ==> NEGATIVE
+        
+    ============================
+    User: bob
+        User Authorization Test
+    ============================
+    Password: builder
+    Sentence: This is a positive sentence.
+    API Version: v1
+    Expected Result: 200
+    Actual Result: 200
+    ==> SUCCESS
+    
+    ============================
+    User: bob
+        User Authorization Test
+    ============================
+    Password: builder
+    Sentence: This is a positive sentence.
+    API Version: v2
+    Expected Result: 200
+    Actual Result: 403
+    ==> FAILURE
+    
+    ============================
+    User: alice
+        User Authorization Test
+    ============================
+    Password: wonderland
+    Sentence: This is a positive sentence.
+    API Version: v1
+    Expected Result: 200
+    Actual Result: 200
+    ==> SUCCESS
+    
+    ============================
+    User: alice
+        User Authorization Test
+    ============================
+    Password: wonderland
+    Sentence: This is a positive sentence.
+    API Version: v2
+    Expected Result: 200
+    Actual Result: 200
+    ==> SUCCESS
+    
+    ============================
+        Authentication test
+    ============================
+    Route: /permissions 
+    Request URL: http://0.0.0.0:8000/permissions
+    Username: alice
+    Password: wonderland
+    Expected Result: 200
+    Actual Result: 200
+    ==> SUCCESS
+    
